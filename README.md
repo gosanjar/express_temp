@@ -19,7 +19,7 @@ To run this project, you will need to add the following environment variables to
 Install my-project with npm
 
 ```bash
-  npm run install
+  npm install
   npm run migrate
   npm run seed:all
 ```
